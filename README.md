@@ -1,10 +1,11 @@
+<div align="center">
+
 <!--
 ███████████████████████████████████████████████████████████████████
           OSAMA SHAKAKI — AI Engineer · Multi-Agent Architect
 ███████████████████████████████████████████████████████████████████
 -->
 
-<div align="center">
 <div align="center">
 
 ```
