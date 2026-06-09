@@ -251,13 +251,6 @@ My work lives at the intersection of **LLMs, autonomous agents, and applied NLP*
 
 ## 📊 Stats
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Osama-Shakaki&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=8892B0&bg_color=0D1117"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Shakaki&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00FFD1&text_color=8892B0&bg_color=0D1117"/>
-
-</div>
 
 <div align="center">
 
