@@ -1,5 +1,3 @@
-<div align="center">
-
 <!--
 ███████████████████████████████████████████████████████████████████
           OSAMA SHAKAKI — AI Engineer · Multi-Agent Architect
