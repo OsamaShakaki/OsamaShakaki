@@ -271,28 +271,26 @@ My work lives at the intersection of **LLMs, autonomous agents, and applied NLP*
 
 <table>
   <tr>
-    <td width="70">
-      <img src="https://www.alfanar.com/images/alfanar-logo.png" width="55"/>
+    <td valign="top" width="130" align="center">
+      <br/>
+          <img src="assets/Alfanar_brand_logo.png" width="110" alt="Alfanar" />
     </td>
-    <td>
-
-### IT Support Intern · [Alfanar Company](https://www.alfanar.com)  
-📍 Riyadh, Saudi Arabia · 2025  
-
-- Resolved hardware and software issues across enterprise IT infrastructure  
-- Monitored network performance alongside senior admins  
-- Documented recurring issues and improved internal knowledge base  
-
-  </td>
-  </tr>
-</table> 
-
-  </td>
+    <td valign="top" style="padding-left: 12px;">
+      <h3>🖥️ IT Support Intern &nbsp;·&nbsp; <a href="https://www.alfanar.com">Alfanar Company</a></h3>
+      <p>
+        📍 Riyadh, Saudi Arabia &nbsp;·&nbsp; 🗓️ 2025 &nbsp;·&nbsp; 
+        <img src="https://img.shields.io/badge/Internship-0A66C2?style=flat-square&logo=briefcase&logoColor=white" alt="Internship"/>
+      </p>
+      <ul>
+        <li>Resolved hardware and software issues across enterprise IT infrastructure</li>
+        <li>Monitored network performance alongside senior admins</li>
+        <li>Documented recurring issues and improved internal knowledge base</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 ---
-
 <div align="center">
 
 <div align="center">
