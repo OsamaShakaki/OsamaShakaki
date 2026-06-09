@@ -41,7 +41,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Osama%20Shakaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/osama-shakaki-680a59229)
 [![Email](https://img.shields.io/badge/Email-osamash040%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamash040@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Osama--Shakaki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaShakaki)
+[![GitHub](https://img.shields.io/badge/GitHub-Osama%20Shakaki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaShakaki)
 [![Phone](https://img.shields.io/badge/KSA-+966536191604-00C853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966536191604)
 
 </div>
